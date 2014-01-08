@@ -1,0 +1,24 @@
+.container {
+	text-align: center;
+	margin-top: 100px;
+}
+
+img {
+	border: .5em solid skyblue;
+	border-radius: 1em;
+}
+
+ul {
+	margin-top: .8em;
+}
+
+li {
+	display: inline;
+	padding: .5em;
+	background-color: lightgrey;
+	border: 1px solid skyblue;
+}
+
+li:hover {
+	background-color: cyan;
+}
